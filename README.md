@@ -2,7 +2,7 @@
   
   <br/>
   
-  <h1>Hello World, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=An+18+Y.O+Developer;A+Software+Engineering+Student;A+Full-Stack+Architect;An+Android+Enthusiast" alt="Typing SVG" /></a></h1>
+<h1>Hello World, I'm <a href="https://git.io/typing-svg"><img align="middle" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&vCenter=true&width=500&lines=An+18+Y.O+Developer;A+Software+Engineering+Student;A+Full-Stack+Architect;An+Android+Enthusiast" alt="Typing SVG" /></a></h1>
 
   <p>
     Siswa jurusan <b>Rekayasa Perangkat Lunak (RPL)</b> yang terobsesi untuk membangun aplikasi berkinerja tinggi, berskala besar, dan berdampak nyata. Berfokus pada ekosistem Web Modern dan Pengembangan Mobile asli.
