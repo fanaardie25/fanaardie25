@@ -27,7 +27,7 @@ I believe in using the right tool for the job. Here's my primary arsenal:
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center"><b>Backend & Core</b></td>
     <td>
